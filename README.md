@@ -3,6 +3,12 @@
 This project implements a Retrieval-Augmented Generation (RAG) system designed to analyze financial reports of Argentine companies listed on BYMA (Bolsa y Mercados Argentinos).
 It allows users to index quarterly PDF reports, retrieve relevant insights through natural language queries, and generate AI-powered responses grounded in the source documents.     
 
+## Authors
+* Zeballos Brenda
+* Andrea Mujica
+* Prata Emiliano
+* Lisotti Joaquin
+
 ## Key Features
 
 Automated PDF Indexing
