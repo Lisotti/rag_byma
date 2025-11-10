@@ -22,6 +22,7 @@ Every function — indexing, querying, evaluation, and database reset — can be
 
 
 ## Project Structure
+```
 rag_byma/
 │
 ├── main.py                        # CLI entry point
@@ -41,7 +42,7 @@ rag_byma/
 │   └── eval/                      # Example Q&A sets for testing
 │
 └── README.md                      # Project documentation
-
+```
 
 ## Installation
 ### 1. Clone the repository
