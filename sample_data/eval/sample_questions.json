@@ -1,0 +1,125 @@
+[
+  {
+    "question": "¿Cuál fue el EBITDA ajustado de YPF en el tercer trimestre de 2025?",
+    "answer": "El EBITDA ajustado fue de US$ 1.357 millones (+21% t/t), impulsado por mayor producción de petróleo shale y menores costos de extracción."
+  },
+  {
+    "question": "¿Cuánto fueron las inversiones totales en el 3T25 y a qué se destinaron principalmente?",
+    "answer": "Las inversiones alcanzaron US$ 1.017 millones (-12% t/t), de las cuales el 70% se destinó al negocio no convencional, reafirmando el foco en Vaca Muerta."
+  },
+  {
+    "question": "¿Cómo evolucionó la producción de petróleo shale durante el trimestre?",
+    "answer": "La producción de petróleo shale creció 35% interanual, alcanzando 170 kbbl/d (+17% t/t), representando el 71% de la producción total de crudo."
+  },
+  {
+    "question": "¿Cuál fue el costo promedio de extracción de YPF en el 3T25?",
+    "answer": "El costo promedio de extracción cayó a US$ 8,8 por barril equivalente (-28% t/t y -45% a/a), por la salida de campos maduros y expansión del shale."
+  },
+  {
+    "question": "¿Qué nivel de utilización registraron las refinerías de YPF en el trimestre?",
+    "answer": "Las refinerías operaron al 97% de utilización, el nivel más alto desde 2009, impulsadas por la refinería La Plata, premiada por LARTC."
+  },
+  {
+    "question": "¿Qué proyectos principales tuvieron avances durante el trimestre?",
+    "answer": "El oleoducto VMOS alcanzó 35% de avance (440 km soldados) y Argentina LNG firmó su decisión final de inversión técnica con YPF y ENI; ADNOC se sumó al acuerdo en noviembre."
+  },
+  {
+    "question": "¿Cómo fue el flujo de caja libre del trimestre?",
+    "answer": "El flujo de caja libre fue negativo en US$ 759 millones, debido a la adquisición de activos shale (US$ 523 M) y la salida de campos maduros."
+  },
+  {
+    "question": "¿Cuál fue el nivel de deuda neta y el ratio de apalancamiento al cierre del trimestre?",
+    "answer": "La deuda neta fue de US$ 9.595 millones, con ratio de apalancamiento neto de 2,1x; excluyendo shale, el ratio proforma sería 1,9x."
+  },
+  {
+    "question": "¿Qué bonos emitió YPF durante el trimestre?",
+    "answer": "YPF emitió tres bonos locales: dos US$-MEP (US$ 250 M a 2 años al 7,5% y US$ 51 M a 3 años al 7,5%) y uno US$-Cable de US$ 225 M a 5 años (8,25%)."
+  },
+  {
+    "question": "¿Qué calificación crediticia otorgó Moody’s a YPF en julio de 2025?",
+    "answer": "Moody’s elevó la calificación de YPF de Caa1 a B2 con perspectiva estable, tras la mejora de la nota soberana de Argentina."
+  },
+  {
+    "question": "¿Cuáles fueron los ingresos netos de YPF en el trimestre?",
+    "answer": "Los ingresos netos fueron US$ 4.643 millones, prácticamente sin cambios respecto al 2T25, impulsados por ventas de gas y combustibles."
+  },
+  {
+    "question": "¿Cuál fue el resultado neto del trimestre?",
+    "answer": "YPF registró una pérdida neta de US$ 198 millones, afectada por el impuesto a las ganancias diferido y menor valuación de bonos soberanos."
+  },
+  {
+    "question": "¿Qué porcentaje de la producción total de petróleo provino de shale?",
+    "answer": "El 71% de la producción total de petróleo provino de shale (vs 59% en 2T25 y 49% en 3T24)."
+  },
+  {
+    "question": "¿Qué nuevos proyectos energéticos están en curso?",
+    "answer": "Nueva unidad de hidrotratamiento en Luján de Cuyo (operativa jun 2026) y modernización de planta de gas Loma La Lata (operativa 1T26)."
+  },
+  {
+    "question": "¿Cuánto fue el EBITDA ajustado del segmento Upstream?",
+    "answer": "El EBITDA ajustado Upstream fue US$ 1.042 millones (+35% t/t), por menores costos y mayores ventas de gas natural."
+  },
+  {
+    "question": "¿Qué desempeño tuvo el segmento Midstream & Downstream?",
+    "answer": "El EBITDA ajustado excluyendo efecto precio fue US$ 354 millones (-19% t/t), afectado por menores precios locales de combustibles."
+  },
+  {
+    "question": "¿Qué avance tuvo el proyecto Argentina LNG?",
+    "answer": "En octubre 2025 YPF y ENI aprobaron la inversión técnica final de la Fase 3 (~12 MTPA, ampliable a ~18 MTPA) y ADNOC se sumó en noviembre."
+  },
+  {
+    "question": "¿Cuál fue la participación del Gobierno argentino en YPF?",
+    "answer": "El Gobierno argentino posee el 51% de las acciones; 27% cotiza en NYSE y 22% en ByMA."
+  },
+  {
+    "question": "¿Qué posición tiene YPF en el mercado argentino?",
+    "answer": "YPF produce 30% del petróleo y gas del país, opera 50% de la capacidad de refinación y lidera el 55% del mercado de combustibles."
+  },
+
+
+  
+  {
+    "question": "¿Cuál fue el EBITDA ajustado consolidado de Loma Negra en el 3T25?",
+    "answer": "El EBITDA Ajustado Consolidado alcanzó Ps. 43.536 millones (US$ 36 millones), una baja de 23,7% i.a."
+  },
+  {
+    "question": "¿Qué margen de EBITDA ajustado registró Loma Negra?",
+    "answer": "El margen de EBITDA ajustado fue de 20,8%, 315 puntos básicos por debajo del 3T24."
+  },
+  {
+    "question": "¿Cuál fue el resultado neto de Loma Negra en el trimestre?",
+    "answer": "Registró una pérdida neta de Ps. 8.587 millones, frente a una ganancia de Ps. 27.871 millones en 3T24."
+  },
+  {
+    "question": "¿Cuál fue el ratio Deuda Neta/EBITDA Ajustado de Loma Negra?",
+    "answer": "El ratio Deuda Neta/EBITDA Ajustado fue 1,49x (últimos 12 meses), frente a 0,89x en dic-2024."
+  },
+  {
+    "question": "¿Qué monto alcanzaron los ingresos netos por ventas en el 3T25?",
+    "answer": "Los ingresos netos por ventas totalizaron Ps. 209.272 millones (US$ 154 millones), una caída de 12,1% i.a."
+  },
+  {
+    "question": "¿Cuánto cayó el EBITDA ajustado en dólares frente al 3T24?",
+    "answer": "El EBITDA ajustado en dólares bajó 35,1% interanual hasta US$ 36 millones."
+  },
+  {
+    "question": "¿Qué emisión de deuda realizó Loma Negra durante el trimestre?",
+    "answer": "Emitió la Obligación Negociable Clase 5 por US$ 113 millones a 2 años y tasa 8% para refinanciar vencimientos."
+  },
+  {
+    "question": "¿Cómo evolucionaron los volúmenes del segmento Cemento?",
+    "answer": "Los volúmenes de cemento, albañilería y cal cayeron 5,4% i.a., aunque subieron 12,8% secuencialmente."
+  },
+  {
+    "question": "¿Cómo fue el desempeño del segmento Hormigón?",
+    "answer": "Las ventas de hormigón aumentaron 37,8% interanual, impulsadas por infraestructura logística y residencial."
+  },
+  {
+    "question": "¿Cuál fue el flujo de efectivo operativo neto del 3T25?",
+    "answer": "El flujo neto de efectivo por operaciones fue Ps. 31.937 millones, frente a Ps. 83.758 millones en 3T24."
+  },
+  {
+    "question": "¿Qué participación tuvo la deuda en dólares en la deuda total de Loma Negra?",
+    "answer": "Al 30 de septiembre de 2025, el 81% de la deuda total estaba denominada en dólares."
+  }
+]
