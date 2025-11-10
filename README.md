@@ -99,7 +99,7 @@ python main.py add -p "sample_data/source/"
 ```
 ### Query the Database
 ```
-python main.py query "What is the opening year of The Lagoon Breeze Hotel?"
+python main.py query "Cual fue el EBDITA de YPF en el Q3 de 2025?"
 ```
 ### Evaluate the Model
 ```
